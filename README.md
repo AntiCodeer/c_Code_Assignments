@@ -54,7 +54,7 @@ Write a C program to read the customer number and power consumed and prints the 
 
  g. x - x3/3! + x5/5! -…… n terms
 
-- 7. Generate following triangle:
+- 7 Generate following triangle:
 
 a
 
