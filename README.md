@@ -31,3 +31,68 @@ Consumption Units               Rate of Charge
 Write a C program to read the customer number and power consumed and prints the amount to be paid by the customer.
 - Write a C program to check whether a character is vowel or consonant using switch statement.
 - Write a C program to check whether a number is positive, negative or zero using switch statement.
+
+# Assignment 3
+- 1 Write a C program to find the factorial of a given number.
+- 2 Write a C program to check whether a given number is prime number or not.
+- 3 Write a C program to check whether a given number is palindrome or not.
+- 4 Write a C program to check whether a given number is Armstrong number or not. (e.g. 153 = 1 3 +5 3 + 3 3 )
+- 5 Write a C program to check whether a given number is Krishnamurthy number or not (e.g. 145 = 1! +4! + 5! ).
+- 6 Evaluate summation of the following series 
+- a.1 + 2 + 3 + 4 +…..n terms
+- b.1 + 4 + 9 + 16 +….n terms
+- c.1 + ½ + 1/3 +….n terms
+- d.1! + 2! + 3! +……n terms
+- e.1 1 + 2 2 + 3 3 + 4 4 + ... n terms
+- f.1 + (1+2) + (1+2+3) +……n terms
+- g.x - x3/3! + x5/5! -…… n terms
+7. 1. Generate following triangle:
+
+a
+
+          1
+        1 2 1
+      1 2 3 2 1
+    1 2 3 4 3 2 1
+b
+
+          1
+          0 1
+          1 0 1
+          0 1 0 1
+c
+
+      4 3 2 1
+      3 2 1
+      2 1
+      1
+
+d
+
+      1
+      2 3
+      4 5 6
+      7 8 9 1
+
+e
+
+    1
+    1 2
+    2 3 4
+    3 4 5 6
+    4 5 6 7 8
+
+f
+
+      ABCDEDCBA
+      ABCD DCBA
+      ABC   CBA
+      AB     BA
+      A       A
+g
+
+        1
+       1 1
+      1 2 1
+     1 3 3 1
+    1 4 6 4 1
