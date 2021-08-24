@@ -104,3 +104,22 @@ g
       1 2 1
      1 3 3 1
     1 4 6 4 1
+
+# Assignment 4
+
+- 1 Write a C program to find the minimum, maximum and average of an
+array. Also find the second minimum number of the array.
+
+- 2 Write a C program to search a given number in the array using
+linear searching technique.
+
+- 3 Write a C program to search a given number in the array using
+binary searching technique.
+
+- 4 Write a C program to sort a given array in ascending order using
+bubble sorting technique.
+
+- 5 Write a C program to sort a given array in ascending order using
+Selection sorting technique.
+
+- 6 Write a C program to delete all the duplicate elements of an array.
