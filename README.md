@@ -123,3 +123,26 @@ bubble sorting technique.
 Selection sorting technique.
 
 - 6 Write a C program to delete all the duplicate elements of an array.
+
+# Assignment 5
+
+- 1 Write a C program to find out the transpose of a matrix of order
+m x n.
+- 2 Write a C program to add two matrices of order m x n.
+- 3 Write a C program to check whether a given matrix is
+symmetric or not.
+- 4 Write a C program to perform Matrix multiplication of two
+matrices, A of order m x n and B of order p x q to produce C
+matrix.
+- 5 Write a C program to find the length of a string without using
+string.h header file.
+- 6 Write a C program to copy one string to another string without
+using string.h header file.
+- 7 Write a C program to compare two strings without using
+string.h header file.
+- 8 Write a C program to concatenate two strings without using
+string.h header file.
+- 9 Write a C program to Display the abbreviated form of a given
+name. (Example: Ramen Nath Das as R. N. Das)
+- 10 Write a C program to check a string for the first occurrence of
+the substring.
