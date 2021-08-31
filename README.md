@@ -8,18 +8,18 @@ Have Funn...........
 - Have a Look In These Code's and try to Create Your Own Version of It
 
 # Assignment 1
-- 1	Write a C program to find the area and circumference of a circle where radius is given
-- 2	Write a C program to convert from Centigrade to Fahrenheit temperature.
-- 3	Write a C program to calculate simple interest and compound interest.
-- 4	Write a C program to calculate the area of a triangle where the length of three sides are given.
-- 5	Write a C program to interchange the value of two variables.
-- 6	Write a C program to interchange the value of two variables without using third variable.
+- Q1	Write a C program to find the area and circumference of a circle where radius is given
+- Q2	Write a C program to convert from Centigrade to Fahrenheit temperature.
+- Q3	Write a C program to calculate simple interest and compound interest.
+- Q4	Write a C program to calculate the area of a triangle where the length of three sides are given.
+- Q5	Write a C program to interchange the value of two variables.
+- Q6	Write a C program to interchange the value of two variables without using third variable.
 
 # Assignment 2
-- Write a C program to check whether a given year is leap year or not.
-- Write a C program to calculate the roots of a quadratic equation ax2 + bx + c = 0,
-- Write a C program to find out the maximum of three numbers.
-- An electric power distribution company charges its domestic consumers as follows:
+- Q1 Write a C program to check whether a given year is leap year or not.
+- Q2 Write a C program to calculate the roots of a quadratic equation ax2 + bx + c = 0,
+- Q3 Write a C program to find out the maximum of three numbers.
+- Q4 An electric power distribution company charges its domestic consumers as follows:
 Consumption Units               Rate of Charge
      0 - 200                              ₹ 0.50 per unit
    201 - 400                            ₹ 100 plus ₹ 0.65 per unit    
@@ -29,16 +29,16 @@ Consumption Units               Rate of Charge
    601 and above                    ₹ 390 plus ₹1.00 per unit 
                                                   excess of 600
 Write a C program to read the customer number and power consumed and prints the amount to be paid by the customer.
-- Write a C program to check whether a character is vowel or consonant using switch statement.
-- Write a C program to check whether a number is positive, negative or zero using switch statement.
+- Q5 Write a C program to check whether a character is vowel or consonant using switch statement.
+- Q6 Write a C program to check whether a number is positive, negative or zero using switch statement.
 
 # Assignment 3
-- 1 Write a C program to find the factorial of a given number.
-- 2 Write a C program to check whether a given number is prime number or not.
-- 3 Write a C program to check whether a given number is palindrome or not.
-- 4 Write a C program to check whether a given number is Armstrong number or not. (e.g. 153 = 1 3 +5 3 + 3 3 )
-- 5 Write a C program to check whether a given number is Krishnamurthy number or not (e.g. 145 = 1! +4! + 5! ).
-- 6 Evaluate summation of the follo wing series 
+- Q1 Write a C program to find the factorial of a given number.
+- Q2 Write a C program to check whether a given number is prime number or not.
+- Q3 Write a C program to check whether a given number is palindrome or not.
+- Q4 Write a C program to check whether a given number is Armstrong number or not. (e.g. 153 = 1 3 +5 3 + 3 3 )
+- Q5 Write a C program to check whether a given number is Krishnamurthy number or not (e.g. 145 = 1! +4! + 5! ).
+- Q6 Evaluate summation of the follo wing series 
 
  a. 1 + 2 + 3 + 4 +…..n terms
 
@@ -54,7 +54,7 @@ Write a C program to read the customer number and power consumed and prints the 
 
  g. x - x3/3! + x5/5! -…… n terms
 
-- 7 Generate following triangle:
+- Q7 Generate following triangle:
 
 a
 
@@ -107,42 +107,42 @@ g
 
 # Assignment 4
 
-- 1 Write a C program to find the minimum, maximum and average of an
+- Q1 Write a C program to find the minimum, maximum and average of an
 array. Also find the second minimum number of the array.
 
-- 2 Write a C program to search a given number in the array using
+- Q2 Write a C program to search a given number in the array using
 linear searching technique.
 
-- 3 Write a C program to search a given number in the array using
+- Q3 Write a C program Qto search a given number in the array using
 binary searching technique.
 
-- 4 Write a C program to sort a given array in ascending order using
+- Q4 Write a C program to sort a given array in ascending order using
 bubble sorting technique.
 
-- 5 Write a C program to sort a given array in ascending order using
+- Q5 Write a C program to sort a given array in ascending order using
 Selection sorting technique.
 
-- 6 Write a C program to delete all the duplicate elements of an array.
+- Q6 Write a C program to delete all the duplicate elements of an array.
 
 # Assignment 5
 
-- 1 Write a C program to find out the transpose of a matrix of order
+- Q1 Write a C program to find out the transpose of a matrix of order
 m x n.
-- 2 Write a C program to add two matrices of order m x n.
-- 3 Write a C program to check whether a given matrix is
+- Q2 Write a C program to add two matrices of order m x n.
+- Q3 Write a C program to check whether a given matrix is
 symmetric or not.
-- 4 Write a C program to perform Matrix multiplication of two
+- Q4 Write a C program to perform Matrix multiplication of two
 matrices, A of order m x n and B of order p x q to produce C
 matrix.
-- 5 Write a C program to find the length of a string without using
+- Q5 Write a C program to find the length of a string without using
 string.h header file.
-- 6 Write a C program to copy one string to another string without
+- Q6 Write a C program to copy one string to another string without
 using string.h header file.
-- 7 Write a C program to compare two strings without using
+- Q7 Write a C program to compare two strings without using
 string.h header file.
-- 8 Write a C program to concatenate two strings without using
+- Q8 Write a C program to concatenate two strings without using
 string.h header file.
-- 9 Write a C program to Display the abbreviated form of a given
+- Q9 Write a C program to Display the abbreviated form of a given
 name. (Example: Ramen Nath Das as R. N. Das)
-- 10 Write a C program to check a string for the first occurrence of
+- Q10 Write a C program to check a string for the first occurrence of
 the substring.
