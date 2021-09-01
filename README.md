@@ -146,3 +146,21 @@ string.h header file.
 name. (Example: Ramen Nath Das as R. N. Das)
 - Q10 Write a C program to check a string for the first occurrence of
 the substring.
+
+# Assignment 6
+
+- Q1 Write a function to interchange the value of two variables using
+call by value.
+- Q2 Write a function to interchange the value of two variables using
+call by address.
+- Q3 Write a program to find the Factorial of a number using
+recursion.
+- Q4 Write a program to find the GCD of two numbers using
+recursion.
+- Q5 Write a program to display n number of Fibonacci numbers
+using recursion.
+- Q6 Write a program to reverse a given line of text using recursion.
+- Q7 Write a recursion program to calculate power operation x y
+where x and y are given.
+- Q8 Write a program to solve Tower of Hanoi problem using
+recursion.
